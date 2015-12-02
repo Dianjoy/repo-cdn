@@ -1,0 +1,20 @@
+{
+  "name": "repo-cdn",
+  "version": "1.0.0",
+  "description": "将所有依赖放到一个仓库里，然后部署到线上，借由CDN访问各种静态资源",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dianjoy/repo-cdn.git"
+  },
+  "keywords": ["cdn", "bower", "npm"],
+  "author": "Meathill <lujia.zhai@dianjoy.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Dianjoy/repo-cdn/issues"
+  },
+  "homepage": "https://github.com/Dianjoy/repo-cdn#readme"
+}

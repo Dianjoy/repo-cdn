@@ -1,0 +1,27 @@
+{
+  "name": "repo-cdn",
+  "homepage": "https://github.com/Dianjoy/repo-cdn",
+  "authors": [
+    "Meathill <lujia.zhai@dianjoy.com>"
+  ],
+  "description": "put all dependencies into one repo to deploy on cdn",
+  "main": "index.html",
+  "moduleType": [],
+  "keywords": [
+    "cdn",
+    "bower",
+    "npm"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "tiger-prawn": "*",
+    "jqueryui": "#~1.11.4"
+  }
+}
