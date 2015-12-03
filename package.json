@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Dianjoy/repo-cdn/issues"
   },
-  "homepage": "https://github.com/Dianjoy/repo-cdn#readme"
+  "homepage": "https://github.com/Dianjoy/repo-cdn#readme",
+  "dependencies": {
+    "plotly.js": "^1.0.5"
+  }
 }
